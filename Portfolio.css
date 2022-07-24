@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 175px;
+  min-height: 16px;
+  width: 175px;
+  min-width: 16px;
+  margin: 121px auto 0 231px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: -94px 65px 60px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-social-icons-1 {
+    margin-left: 165px;
+  }
+}
